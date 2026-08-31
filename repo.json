@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "Aeris Lifestream",
+    "Name": "FCGoblin",
+    "InternalName": "FCGoblinPlugin",
+    "Description": "Receives Free Company scan results from the FCGoblin desktop app and lists them in-game.",
+    "Punchline": "Scan Free Companies on your PC, manage the list in-game.",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/AerisLifestream/FCGoblin-plugin-repo",
+    "DalamudApiLevel": 15,
+    "Tags": ["utility"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip"
+  }
+]
