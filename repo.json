@@ -12,8 +12,8 @@
     "Tags": ["utility"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/releases/download/v0.1.0.0/FCGoblinPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/raw/main/FCGoblinPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/raw/main/FCGoblinPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/AerisLifestream/FCGoblin-plugin-repo/raw/main/FCGoblinPlugin.zip"
   }
 ]
